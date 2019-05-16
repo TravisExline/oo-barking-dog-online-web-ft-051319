@@ -7,4 +7,7 @@ class Dog
   def name
     @doggo
   end
+
+  def bark
+  end
 end
